@@ -44,3 +44,11 @@ are manually levelized appropriately.
 An automatic saving feature has been implemented. The game's
 running highscore is saved on your local machine, and displayed
 at all times.
+
+# Version Information
+### 1.1
+Added automatic highescore saving feature.
+### 1.2
+Added Banjo Kazooie music.
+### 1.3
+Nighttime version.

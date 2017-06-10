@@ -47,7 +47,7 @@ at all times.
 
 # Version Information
 ### 1.1
-Added automatic highescore saving feature.
+Added automatic highscore saving feature.
 ### 1.2
 Added Banjo Kazooie music.
 ### 1.3

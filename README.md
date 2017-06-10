@@ -15,7 +15,7 @@ Watch out for its shadow, and listen for its squark
 coming from).
 
 # Game Model
-The game consist of a 3D frog model in a 3D swamp being
+The game consists of a 3D frog model in a 3D swamp being
 chased by a 3D bird model while it collects flies.
 The game makes use of colliders
 to prevent the frog from leaving the swamp, for the enemy
